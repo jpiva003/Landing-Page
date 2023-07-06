@@ -1,0 +1,22 @@
+body {
+  background-color: #1f2937;
+}
+a {
+  text-decoration: none;
+  color: gray;
+}
+.company-name {
+  color: white;
+  margin-right: 200px;
+  margin-left: 60px;
+}
+.top-three > a {
+  color: gray;
+  margin-left: 200px;
+  display: inline-block;
+  font-size: large;
+}
+.flex-container.top-three,
+.flex-container.company-name {
+  display: inline-block;
+}
