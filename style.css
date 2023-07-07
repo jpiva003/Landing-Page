@@ -1,5 +1,6 @@
 body {
   background-color: #1f2937;
+  margin: 0%;
 }
 a {
   text-decoration: none;
@@ -53,3 +54,31 @@ a {
   left: 850px;
   top: 190px;
 }
+/*The above code is everyhting to style the Mission, paragraph, sign up, and the image to the right */
+.random-info {
+  color: black;
+  background-color: white;
+  font-size: 25px;
+  margin-top: 200px;
+  text-align: center;
+  height: 80vh;
+  padding-top: 20px;
+}
+.random-info > img {
+  justify-content: space-between;
+  display: inline-block;
+  width: 250px;
+}
+.quote {
+  background-color: gray;
+  color: #1f2937;
+  padding-top: 100px;
+  text-align: center;
+  height: 50vh;
+  margin-top: 0px;
+  font-size: 15px;
+  padding-right: 200px;
+  padding-left: 200px;
+  font-style: italic;
+}
+/*The code above is the styling for the quote and the gallery with the images*/
