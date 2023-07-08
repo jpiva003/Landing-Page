@@ -82,3 +82,28 @@ a {
   font-style: italic;
 }
 /*The code above is the styling for the quote and the gallery with the images*/
+.call-to-action {
+  color: white;
+  text-align: center;
+  border: solid red 1px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  background-color: #3882f6;
+  border-radius: 5px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+}
+.call-to-action > button {
+  background-color: #3882f6;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+}
+.copyright {
+  text-align: center;
+  color: white;
+}
